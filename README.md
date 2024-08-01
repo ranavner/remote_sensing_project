@@ -1,4 +1,4 @@
-# remote_sensing_project
+# Remote Sensing Final Project
 
 Hey there,
 
